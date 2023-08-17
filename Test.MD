@@ -1,0 +1,1 @@
+This is for testing purpose for initializing the existing repository to git 
